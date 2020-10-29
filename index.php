@@ -8,7 +8,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="images/favicon.PNG" type="image/icon" sizes="30x30">
+    <link rel="icon" href="public/images/favicon.PNG" type="image/icon" sizes="30x30">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
@@ -162,7 +162,7 @@
         </div>
         <div class="row">
             <div class="col-lg-6 mx-auto text-center">
-                <img src="./images/robo.GIF">
+                <img src="public/images/robo.GIF">
             </div>
         </div>
         <div class="row">
@@ -195,7 +195,7 @@
 
               <!--Header-->
               <div class="modal-header">
-                <img src="./images/logo.JPG" alt="avatar" class="rounded-circle img-responsive">
+                <img src="public/images/logo.JPG" alt="avatar" class="rounded-circle img-responsive">
               </div>
               <!--Body-->
               <div class="modal-body text-center mb-1">
