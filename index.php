@@ -156,17 +156,17 @@
 <body>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-6 mx-auto text-center mt-4" style="color: #173f5f;font-weight: 600;font-size: 35px;font-family: 'Permanent Marker', cursive;">
+            <div class="col-sm-6 mx-auto text-center mt-4" style="color: #173f5f;font-weight: 600;font-size: 35px;font-family: 'Permanent Marker', cursive;">
                 <span>ROBOT MANIA</span>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6 mx-auto text-center">
+            <div class="col-sm-6 mx-auto text-center">
                 <img src="https://media0.giphy.com/media/1ZDDyAaAA82ywDiyKs/giphy.gif">
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6 mx-auto text-center">
+            <div class="col-sm-6 mx-auto text-center">
                 <h3 class="progress-title">Status <span id="status" class="text-warning">Not-Charging</span></h3>
                 <div class="progress">
                     <div class="progress-bar bg-warning" id="prog-per" style="width:50%;">
@@ -177,7 +177,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6 mx-auto text-center mt-2">
+            <div class="col-sm-6 mx-auto text-center mt-2">
                 <button class="unplug" onclick="stop()">Un-Plug</button>
                 <button class="plugin" onclick="move()">Plug-In</button>
             </div>
