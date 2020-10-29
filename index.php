@@ -162,7 +162,7 @@
         </div>
         <div class="row">
             <div class="col-lg-6 mx-auto text-center">
-                <img src="images/robo.gif">
+                <img src="./images/robo.gif">
             </div>
         </div>
         <div class="row">
@@ -195,7 +195,7 @@
 
               <!--Header-->
               <div class="modal-header">
-                <img src="images/logo.jpg" alt="avatar" class="rounded-circle img-responsive">
+                <img src="./images/logo.jpg" alt="avatar" class="rounded-circle img-responsive">
               </div>
               <!--Body-->
               <div class="modal-body text-center mb-1">
